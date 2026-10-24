@@ -10,8 +10,6 @@
 
 I design and build business software that keeps ecommerce operations running:
 inventory, orders, accounting and storefront sync, in one connected system.
-I also work on [Groome](https://mygroome.com), a Bangladeshi skincare and
-grooming brand.
 
 - 🏭 Building custom **ERP platforms** for retail and ecommerce teams
 - 🔄 Integrating **WooCommerce** stock and order sync with back-office systems
@@ -49,7 +47,6 @@ grooming brand.
 ### 🤝 Let's Connect
 
 <p>
-  <a href="https://mygroome.com"><img src="https://img.shields.io/badge/Groome-111?style=for-the-badge&logo=safari&logoColor=white" /></a>
   <a href="mailto:rafid00752@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="<your LinkedIn URL>"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
